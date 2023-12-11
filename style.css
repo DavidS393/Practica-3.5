@@ -1,0 +1,24 @@
+header {
+    background-color: lightgoldenrodyellow;
+}
+
+nav {
+    background-color: greenyellow;
+}
+
+section {
+    background-color: orange;
+}
+
+div.text2 {
+    background-color: orange;
+}
+
+footer.text3 {
+    background-color: blue;
+    color: blueviolet;
+}
+
+span.text4 {
+    background-color: yellow;
+}
